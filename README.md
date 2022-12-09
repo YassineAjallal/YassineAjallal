@@ -1,3 +1,6 @@
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/yajallal" alt="yajallal's 42 stats" /></a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine542&show_icons=true&theme=tokyonight)
 
 
