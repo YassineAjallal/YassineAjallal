@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My name is yassine and I'm a computer science student</h6>
+<p align="left">My name is yassine and I'm a computer science student</p>
 
 ###
 
