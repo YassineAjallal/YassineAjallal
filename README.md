@@ -40,9 +40,6 @@
 <h2>Portfolio</h2>
 <a href="https://yajallal.me">Click here</a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YassineAjallal&color=brightgreen&style=for-the-badge" alt="Profile Views">
-
-
 
 <div align="center">
   <img src="https://badge.mediaplus.ma/darkblue/yajallal" alt="yajallal's 42 stats" height="200" />
