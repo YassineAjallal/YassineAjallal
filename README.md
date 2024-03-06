@@ -38,7 +38,9 @@
 
 ###
 <h2>Portfolio</h2>
-<a href="https://yajallal.me">Click here</a>
+<a href="https://yajallal.me">Click here</a><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YassineAjallal&color=brightgreen&style=for-the-badge" alt="Profile Views">
 
 
 
